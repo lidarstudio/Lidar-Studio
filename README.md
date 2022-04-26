@@ -11,7 +11,7 @@ Lidar Studio realizes the rendering and editing of massive point cloud data thro
 
 Actual measurement 1: It takes about 58 minutes to convert the LAS data with a file size of 94.3GB and 3.9 billion points in a survey area, and the converted lcdata file is about 94.3GB.
 
-Actual measurement 2: It takes about 41 seconds to convert the LAS data with a file size of 1.62GB and 60 million dots in a survey area, and the converted lcdata file is about 1.4GB.
+Actual measurement 2: It takes about 41 seconds to convert the LAS data with a file size of 1.62GB and 60 million points in a survey area, and the converted lcdata file is about 1.4GB.
 
 Remarks: All the above test results were done on the desktop with Intel(R) Core(TM) i7-7700, 32G memory and ordinary mechanical hard disk.
 
