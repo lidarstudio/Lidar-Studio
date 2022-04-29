@@ -5,7 +5,7 @@
 [知乎](https://zhuanlan.zhihu.com/p/504083964)
 
 ## Intro
-Lidar Studio is a point cloud processing and analysis software independently developed by 武汉空间智测科技有限公司, which uses the Frontier technology of computer graphics to realize the rapid visualization and editing of massive point cloud data (supporting rendering and processing of point cloud data over 100G), and provides rich editing tools and advanced point cloud processing algorithms, which can be applied in surveying and mapping, electric power, agriculture, forestry and other industries.
+Lidar Studio is a point cloud processing and analysis software independently developed by 武汉空间智测科技有限公司, which uses the Frontier technology of computer graphics to realize the rapid visualization and editing of massive point cloud data (supporting rendering and processing of point cloud data over 100G), and provides rich editing tools and advanced point cloud processing algorithms, which can be applied in surveying and mapping, electric power, agriculture, forestry , deep learning point cloud annotation and other industries.
 
 Lidar Studio realizes the rendering and editing of massive point cloud data through the custom point cloud format file lcdata. The lcdata data and standard LAS data can be converted to each other. After the conversion is completed, the rendering effect of massive point cloud data can be realized in seconds. The speed of converting lcdata is extremely fast.
 
