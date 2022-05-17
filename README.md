@@ -1,4 +1,4 @@
-![Lidar Studio](doc/start.png)
+![Lidar Studio](doc/start.PNG)
 
 [中文版本](README_CN.md)
 
@@ -46,7 +46,7 @@ Note: After the trial expires, you can apply for the authorization code for 3 mo
 The main menu Help > License Activate, the License Activate dialog box pops up, fill in the name and company information, and select the activate modules.
 Click the [Copy Information] button, send the copied information to lidarstudio@qq.com by email,
 After obtain the license.dat, just copy it to the software installation directory (make sure the file name of the license is license.dat).
-![License Activate dialog](doc/license.png)
+![License Activate dialog](doc/license.PNG)
 ![software installation directory](doc/license2.png)
 
 ## Download resources
