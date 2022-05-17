@@ -1,4 +1,4 @@
-![Lidar Studio](doc/start.png)
+![Lidar Studio](doc/start.PNG)
 
 [English Version](README.md)
 
